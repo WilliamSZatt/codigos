@@ -1,0 +1,1 @@
+const array = ["William", 19, 1.95, true];
